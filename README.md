@@ -3,4 +3,4 @@ The factorial of a positive integer n, denoted by n!, is the product of all posi
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/197c10f38aae4f7ea58120beabc52695)](https://www.codacy.com/manual/stepin104794/Factorial?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stepin104794/Factorial&amp;utm_campaign=Badge_Grade) 
 ![C/C++ CI](https://github.com/stepin104794/Factorial/workflows/C/C++%20CI/badge.svg?branch=master)
-
+![Unit testing](https://github.com/stepin104794/Factorial/workflows/Unit%20testing/badge.svg?branch=master)
